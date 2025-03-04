@@ -1,4 +1,6 @@
 copy con test.txt
 This text is test!
+Гордиян здесь!
+
 ------------------
 added a new change in this file (for a git work)
